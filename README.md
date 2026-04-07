@@ -1,4 +1,4 @@
-# Multi-Waveguide Pinching Antennas for ISAC reproduction
+# Multi-Waveguide Pinching Antennas for ISAC -reproduction
 
 This repository is a small MATLAB research project centered on pinching-antenna ISAC experiments. The current codebase is organized around package-based APIs for custom scenarios, validation sweeps, and the underlying SCA solver.
 
