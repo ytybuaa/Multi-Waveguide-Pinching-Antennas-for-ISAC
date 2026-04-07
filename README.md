@@ -2,6 +2,10 @@
 
 This repository is a small MATLAB research project centered on pinching-antenna ISAC experiments. The current codebase is organized around package-based APIs for custom scenarios, validation sweeps, and the underlying SCA solver.
 
+This implementation is based on the research: *Mao, W., Lu, Y., Xu, Y., Ai, B., Dobre, O. A., & Niyato, D. 
+
+[[2505.24307\] Multi-Waveguide Pinching Antennas for ISAC](https://arxiv.org/abs/2505.24307)
+
 ## Layout
 
 - `+pinching/+api`: public entry points and config builders for scenario runs, validation sweeps, and direct joint solving.
